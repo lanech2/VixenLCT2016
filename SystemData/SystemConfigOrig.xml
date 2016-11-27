@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SystemConfig version="16">
+  <Identity>73d7604e-c876-400a-8a40-78d7599c3c9a</Identity>
+  <AllowFilterEvaluation>true</AllowFilterEvaluation>
+  <DefaultUpdateInterval>50</DefaultUpdateInterval>
+  <Channels />
+  <Nodes />
+  <Controllers />
+  <ControllerLinks />
+  <SmartControllers />
+  <Previews />
+  <Filters />
+  <Patches />
+  <DisabledDevices />
+</SystemConfig>
