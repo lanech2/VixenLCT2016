@@ -2344,7 +2344,7 @@
     <SourceName>08 Track 08.mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <DefaultPlaybackEndTime i:nil="true" />
-  <DefaultPlaybackStartTime>PT4M37.5292168S</DefaultPlaybackStartTime>
+  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
   <DefaultSplitterDistance>0</DefaultSplitterDistance>
   <MarkCollections>
@@ -2375,5 +2375,5 @@
   </MarkCollections>
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.2742383S</TimePerPixel>
-  <VisibleTimeStart>PT0.0000572S</VisibleTimeStart>
+  <VisibleTimeStart>PT17.5513084S</VisibleTimeStart>
 </TimedSequenceData>

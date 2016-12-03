@@ -876,11 +876,11 @@
     <SourceName>09 Track 09.mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <DefaultPlaybackEndTime i:nil="true" />
-  <DefaultPlaybackStartTime>PT2M1.286464S</DefaultPlaybackStartTime>
+  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
   <DefaultSplitterDistance>0</DefaultSplitterDistance>
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.1164145S</TimePerPixel>
-  <VisibleTimeStart>PT34.208418S</VisibleTimeStart>
+  <VisibleTimeStart>PT41.658946S</VisibleTimeStart>
 </TimedSequenceData>

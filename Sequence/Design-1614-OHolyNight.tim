@@ -2499,7 +2499,7 @@
     <SourceName>14 Track 14.mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <DefaultPlaybackEndTime i:nil="true" />
-  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
+  <DefaultPlaybackStartTime>PT3M28.7468404S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
   <DefaultSplitterDistance>0</DefaultSplitterDistance>
   <MarkCollections>
@@ -2544,5 +2544,5 @@
   </MarkCollections>
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.1035644S</TimePerPixel>
-  <VisibleTimeStart>PT2M46.5961296S</VisibleTimeStart>
+  <VisibleTimeStart>PT2M53.2242512S</VisibleTimeStart>
 </TimedSequenceData>
