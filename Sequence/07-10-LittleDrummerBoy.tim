@@ -18,7 +18,24 @@
         <d1p1:Type>Default</d1p1:Type>
       </d2p1:anyType>
     </d1p1:Layers>
-    <d1p1:_effectLayerMap xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    <d1p1:_effectLayerMap xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d2p1:KeyValueOfguidguid>
+        <d2p1:Key>ec8afefe-7844-4cc3-a83d-a715b736ade1</d2p1:Key>
+        <d2p1:Value>73012608-d2b1-4714-a2fb-d3e06a5bbc84</d2p1:Value>
+      </d2p1:KeyValueOfguidguid>
+      <d2p1:KeyValueOfguidguid>
+        <d2p1:Key>0508fa91-f886-4c30-8eb1-1d810ed0599a</d2p1:Key>
+        <d2p1:Value>73012608-d2b1-4714-a2fb-d3e06a5bbc84</d2p1:Value>
+      </d2p1:KeyValueOfguidguid>
+      <d2p1:KeyValueOfguidguid>
+        <d2p1:Key>74f562a7-2ced-4486-b698-d9a9e10672a6</d2p1:Key>
+        <d2p1:Value>73012608-d2b1-4714-a2fb-d3e06a5bbc84</d2p1:Value>
+      </d2p1:KeyValueOfguidguid>
+      <d2p1:KeyValueOfguidguid>
+        <d2p1:Key>a287e021-63a4-4593-a8c6-1b82147304c9</d2p1:Key>
+        <d2p1:Value>73012608-d2b1-4714-a2fb-d3e06a5bbc84</d2p1:Value>
+      </d2p1:KeyValueOfguidguid>
+    </d1p1:_effectLayerMap>
   </SequenceLayers>
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
