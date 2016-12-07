@@ -91,7 +91,7 @@
       <d2p1:Direction>Out</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
-      <d2p1:PulseTime>1000</d2p1:PulseTime>
+      <d2p1:PulseTime>3000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
@@ -169,7 +169,7 @@
       <d2p1:Direction>Up</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
-      <d2p1:PulseTime>1000</d2p1:PulseTime>
+      <d2p1:PulseTime>3000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
@@ -247,7 +247,7 @@
       <d2p1:Direction>Up</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
-      <d2p1:PulseTime>1000</d2p1:PulseTime>
+      <d2p1:PulseTime>3000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
@@ -325,7 +325,7 @@
       <d2p1:Direction>Up</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
-      <d2p1:PulseTime>1000</d2p1:PulseTime>
+      <d2p1:PulseTime>3000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
     </d1p1:anyType>
   </_dataModels>

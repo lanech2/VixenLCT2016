@@ -27,7 +27,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>100</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -112,7 +112,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>100</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -197,7 +197,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>100</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -330,7 +330,7 @@
   <DefaultPlaybackEndTime i:nil="true" />
   <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
-  <DefaultSplitterDistance>0</DefaultSplitterDistance>
+  <DefaultSplitterDistance>250</DefaultSplitterDistance>
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.0745052S</TimePerPixel>

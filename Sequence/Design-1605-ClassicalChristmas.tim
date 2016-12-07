@@ -8969,11 +8969,33 @@
       <TypeId>7b791008-56a2-4bff-8ce3-a7fb89ea4637</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
+      <InstanceId>e68d47d3-5c21-4f0a-8b0e-72fa2aff19cf</InstanceId>
+      <StartTime>PT2M27.0588951S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>26fe95ee-12a5-4776-8e57-79c93528220a</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT10.3335089S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
       <InstanceId>def5ccfd-e149-4dd4-9f65-d72d1376946b</InstanceId>
       <StartTime>PT2M27.0588951S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>5cfa0b34-3d52-4b33-8b85-7c65e0baa2a0</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT10.3335089S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>bc3c941b-04d1-4984-86a3-d180be722e22</InstanceId>
+      <StartTime>PT2M27.0588951S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>5f4a4aa0-5b80-438b-8fa0-783a4eaf1c95</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT10.3335089S</TimeSpan>
@@ -8991,22 +9013,22 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>e68d47d3-5c21-4f0a-8b0e-72fa2aff19cf</InstanceId>
+      <InstanceId>a1c82197-873e-46a1-9872-aca581ec6d05</InstanceId>
       <StartTime>PT2M27.0588951S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>26fe95ee-12a5-4776-8e57-79c93528220a</NodeId>
+          <NodeId>3878803e-0a37-45af-acc2-d341d2f6fa48</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT10.3335089S</TimeSpan>
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>bc3c941b-04d1-4984-86a3-d180be722e22</InstanceId>
+      <InstanceId>d87d8611-6e0c-4c4d-8d04-c9298d68d9f2</InstanceId>
       <StartTime>PT2M27.0588951S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>5f4a4aa0-5b80-438b-8fa0-783a4eaf1c95</NodeId>
+          <NodeId>50fb3e13-230f-4c87-bb7d-8332bd1f7022</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT10.3335089S</TimeSpan>
@@ -9035,33 +9057,11 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>d87d8611-6e0c-4c4d-8d04-c9298d68d9f2</InstanceId>
-      <StartTime>PT2M27.0588951S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>50fb3e13-230f-4c87-bb7d-8332bd1f7022</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT10.3335089S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>a1c82197-873e-46a1-9872-aca581ec6d05</InstanceId>
-      <StartTime>PT2M27.0588951S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>3878803e-0a37-45af-acc2-d341d2f6fa48</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT10.3335089S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>e5aa19ad-58b3-4648-b8de-dc00f716fbec</InstanceId>
+      <InstanceId>33a0f5d4-1c24-4df4-a4a2-404331dc04f4</InstanceId>
       <StartTime>PT2M37.392404S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>141f3585-ac96-4160-8fb3-9f8bcac1d213</NodeId>
+          <NodeId>e15080fa-b25b-4792-8e67-3fda8b7fd42d</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT10.5197721S</TimeSpan>
@@ -9090,11 +9090,11 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>33a0f5d4-1c24-4df4-a4a2-404331dc04f4</InstanceId>
+      <InstanceId>e5aa19ad-58b3-4648-b8de-dc00f716fbec</InstanceId>
       <StartTime>PT2M37.392404S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>e15080fa-b25b-4792-8e67-3fda8b7fd42d</NodeId>
+          <NodeId>141f3585-ac96-4160-8fb3-9f8bcac1d213</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT10.5197721S</TimeSpan>
@@ -9123,17 +9123,6 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>636ae67a-33a0-4d9a-80c9-c0ea4eb77465</InstanceId>
-      <StartTime>PT2M37.392404S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>d383c756-e6bb-4d49-adb4-e66840ebef1a</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT10.5197721S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>2dd34914-7551-41fe-becf-86ac315094ee</InstanceId>
       <StartTime>PT2M37.392404S</StartTime>
       <TargetNodes>
@@ -9145,14 +9134,14 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>1eee9dfa-032d-4f6f-ae5b-f939d32ef8b4</InstanceId>
-      <StartTime>PT2M48.0094064S</StartTime>
+      <InstanceId>636ae67a-33a0-4d9a-80c9-c0ea4eb77465</InstanceId>
+      <StartTime>PT2M37.392404S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>5f4a4aa0-5b80-438b-8fa0-783a4eaf1c95</NodeId>
+          <NodeId>d383c756-e6bb-4d49-adb4-e66840ebef1a</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT11.5627943S</TimeSpan>
+      <TimeSpan>PT10.5197721S</TimeSpan>
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -9222,6 +9211,17 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
+      <InstanceId>1eee9dfa-032d-4f6f-ae5b-f939d32ef8b4</InstanceId>
+      <StartTime>PT2M48.0094064S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>5f4a4aa0-5b80-438b-8fa0-783a4eaf1c95</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT11.5627943S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
       <InstanceId>2e9c4f93-f703-4eeb-9a1f-598b5a3fff58</InstanceId>
       <StartTime>PT2M48.0094064S</StartTime>
       <TargetNodes>
@@ -9233,22 +9233,22 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>54b5a43b-5b3b-4857-aaff-aa7e4128d579</InstanceId>
+      <InstanceId>103eb1b3-f784-48c5-8345-28d14eba7de9</InstanceId>
       <StartTime>PT2M59.5722007S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>5cfa0b34-3d52-4b33-8b85-7c65e0baa2a0</NodeId>
+          <NodeId>d383c756-e6bb-4d49-adb4-e66840ebef1a</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT12.3865028S</TimeSpan>
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>103eb1b3-f784-48c5-8345-28d14eba7de9</InstanceId>
+      <InstanceId>54b5a43b-5b3b-4857-aaff-aa7e4128d579</InstanceId>
       <StartTime>PT2M59.5722007S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>d383c756-e6bb-4d49-adb4-e66840ebef1a</NodeId>
+          <NodeId>5cfa0b34-3d52-4b33-8b85-7c65e0baa2a0</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT12.3865028S</TimeSpan>
@@ -9299,22 +9299,22 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>4c9761b7-6840-449d-88f0-38cdac3757b2</InstanceId>
+      <InstanceId>6d6a98a6-23a3-437b-b1b6-328b71747c3b</InstanceId>
       <StartTime>PT2M59.5722007S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>50fb3e13-230f-4c87-bb7d-8332bd1f7022</NodeId>
+          <NodeId>3878803e-0a37-45af-acc2-d341d2f6fa48</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT12.3865028S</TimeSpan>
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>6d6a98a6-23a3-437b-b1b6-328b71747c3b</InstanceId>
+      <InstanceId>4c9761b7-6840-449d-88f0-38cdac3757b2</InstanceId>
       <StartTime>PT2M59.5722007S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>3878803e-0a37-45af-acc2-d341d2f6fa48</NodeId>
+          <NodeId>50fb3e13-230f-4c87-bb7d-8332bd1f7022</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT12.3865028S</TimeSpan>
@@ -9739,28 +9739,6 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>112011de-9ea3-4dbc-a159-c9135f63f7c8</InstanceId>
-      <StartTime>PT4M45.2943324S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>08fe4c85-ee20-4312-a78f-97f9b6dbea66</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT17.7881356S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>6e112080-e4a5-4fd0-98c4-cd344acefb6a</InstanceId>
-      <StartTime>PT4M45.2943324S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT17.7881356S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>3cc607fc-dfe7-482c-b7d6-8a7941637b1d</InstanceId>
       <StartTime>PT4M45.2943324S</StartTime>
       <TargetNodes>
@@ -9777,6 +9755,28 @@
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT17.7881356S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>112011de-9ea3-4dbc-a159-c9135f63f7c8</InstanceId>
+      <StartTime>PT4M45.2943324S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>08fe4c85-ee20-4312-a78f-97f9b6dbea66</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT17.7881356S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>6e112080-e4a5-4fd0-98c4-cd344acefb6a</InstanceId>
+      <StartTime>PT4M45.2943324S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT17.7881356S</TimeSpan>
@@ -9842,7 +9842,7 @@
     <SourceName>05 Track 05.mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <DefaultPlaybackEndTime i:nil="true" />
-  <DefaultPlaybackStartTime>PT2M36.1748506S</DefaultPlaybackStartTime>
+  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
   <DefaultSplitterDistance>208</DefaultSplitterDistance>
   <MarkCollections />
@@ -9857,5 +9857,5 @@
     </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
   </RowSettings>
   <TimePerPixel>PT0.0931316S</TimePerPixel>
-  <VisibleTimeStart>PT3M50.9986096S</VisibleTimeStart>
+  <VisibleTimeStart>PT3M13.18718S</VisibleTimeStart>
 </TimedSequenceData>

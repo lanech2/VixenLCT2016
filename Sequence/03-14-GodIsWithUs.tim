@@ -168,7 +168,7 @@
       <ModuleInstanceId>a4fe5b74-ec2f-4e96-bc8f-dcf5d41ab4f1</ModuleInstanceId>
       <ModuleTypeId>e2ef89d5-c3b3-47e7-a776-f31b4193fc76</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Locations</TargetPositioning>
-      <d2p1:BackgroundChunks>4</d2p1:BackgroundChunks>
+      <d2p1:BackgroundChunks>1</d2p1:BackgroundChunks>
       <d2p1:BackgroundSkips>2</d2p1:BackgroundSkips>
       <d2p1:ButterflyType>Type2</d2p1:ButterflyType>
       <d2p1:ColorScheme>Gradient</d2p1:ColorScheme>
@@ -246,55 +246,6 @@
       <d2p1:Orientation>Vertical</d2p1:Orientation>
       <d2p1:Repeat>2</d2p1:Repeat>
     </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
-      <ModuleInstanceId>24f34adb-19e2-4507-ada5-32323d32cb51</ModuleInstanceId>
-      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:ColorHandling>StaticColor</d2p1:ColorHandling>
-      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
-      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
-      <d2p1:LevelVariation>50</d2p1:LevelVariation>
-      <d2p1:MaximumLevel>0.48686621869273045</d2p1:MaximumLevel>
-      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
-      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
-      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
-        <d3p1:knownColor>164</d3p1:knownColor>
-        <d3p1:name i:nil="true" />
-        <d3p1:state>1</d3p1:state>
-        <d3p1:value>0</d3p1:value>
-      </d2p1:StaticColor>
-    </d1p1:anyType>
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
     <EffectNodeSurrogate>
@@ -307,17 +258,6 @@
       </TargetNodes>
       <TimeSpan>PT34.2457636S</TimeSpan>
       <TypeId>e2ef89d5-c3b3-47e7-a776-f31b4193fc76</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>24f34adb-19e2-4507-ada5-32323d32cb51</InstanceId>
-      <StartTime>PT0S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT34.2457636S</TimeSpan>
-      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>6d213f5d-f3bd-4850-a58e-0bdf6fd41ccd</InstanceId>
@@ -353,7 +293,7 @@
   <DefaultPlaybackEndTime i:nil="true" />
   <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
-  <DefaultSplitterDistance>0</DefaultSplitterDistance>
+  <DefaultSplitterDistance>250</DefaultSplitterDistance>
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.0931316S</TimePerPixel>
